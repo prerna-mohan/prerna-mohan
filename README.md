@@ -11,7 +11,7 @@
   <a href="https://instagram.com/prerna_mohan_?igshid=NGExMmI2YTkyZg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href = "mailto: prernamohan2@gmail.com" target="_blank">
+  <a href="prernamohan2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://codepen.io/prerna_mohan" target="_blank">
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">A Digital Dreamweaver...</h3>
+<h3 align="center">A Digital Dreamweaver...</h3>
 
 ###
 
