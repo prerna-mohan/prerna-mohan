@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- 🌎 Enchantress of the Virtual Realm: Sculpting 3D wonders with three.js, GLSL, Unity 3D, and Blender.<br>- 🔭 The Sorceress of Frontend Magic:  Skilled in Javascript, Typescript, Webpack, CSS, HTML.<br>- 📚 Currently on a mission to unlock the secrets of 3D rendering.<br>- 💻 Looking to colaborate more on Web/AR/VR/3D projects.<br>- ⚡ In my free time I collect stamps <br>- 🍝 I love Spaghetti</p>
+<p align="left">- 🌎 Creating the Virtual Realm: Sculpting 3D wonders with three.js, GLSL, Unity 3D, and Blender.<br>- 🔭 Skilled in Javascript, Typescript, Webpack, CSS, HTML.<br>- 📚 Currently on a mission to unlock the secrets of 3D rendering.<br>- 💻 Looking to colaborate more on Web/AR/VR/3D projects.<br>- ⚡ Passionate about pushing the boundaries of web development to deliver innovative and engaging solutions
 
 ###
 
