@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="350" src="https://lh3.googleusercontent.com/pw/AIL4fc_8d_Hngj3uioyQrM3EZ18Jqb3xq8HuoXqayXApQwykLod0Q5x471aCrb16pBQ6BN1UFp16zr9TGzi49IyKJa1sNQfZt1089pJBZMVifmNGj1-2XY5HCoxQvFM-nUjNIcHsWEBqvW6SQS6cLAIon91t=w1169-h657-s-no?authuser=0"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/prerna-mohan-72610618b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
